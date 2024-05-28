@@ -23,6 +23,8 @@ You must have Python 3.9 or later installed. Earlier versions of python may not 
    `streamlit run main.py`
 
 # Screen Shots
-![image](https://github.com/mzeeshanaltaf/csv-data-analysis/assets/154883001/538e963d-f44e-4cad-ba7a-b6b7fe3f827b)
+![image](https://github.com/mzeeshanaltaf/csv-data-analysis/assets/154883001/c50de8a0-889a-4be1-9392-f4b6cdb8aeee)
+
+
 
 
